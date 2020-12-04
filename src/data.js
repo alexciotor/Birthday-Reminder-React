@@ -1,0 +1,33 @@
+ export default [
+    {
+        id:1,
+img:'https://images.pexels.com/photos/1138903/pexels-photo-1138903.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
+name:'John',
+age:32
+},
+    {
+         id:2,
+img:'https://images.pexels.com/photos/1197132/pexels-photo-1197132.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',       
+name:'Alex',
+age:31 
+},
+    {
+         id:3,
+img:'https://images.pexels.com/photos/567459/pexels-photo-567459.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
+name:'Diane',
+age:36
+},
+    {
+         id:4,
+img:'https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',        
+name:'Susane',
+age:50
+},
+    {
+         id:5,
+img:'https://images.pexels.com/photos/761963/pexels-photo-761963.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',        
+name:'anex',
+age:36
+},
+]
+
